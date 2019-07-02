@@ -1,0 +1,15 @@
+check:
+  # Existing coverage checks.
+  # For all files as an *aggregate*.
+  global:
+    statements: 75
+    lines: 75
+    branches: 50
+    functions: 75
+
+  # For each and every file on an individual basis.
+  each:
+    statements: 75
+    lines: 75
+    branches: 50
+    functions: 75
