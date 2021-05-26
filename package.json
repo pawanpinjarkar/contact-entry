@@ -29,7 +29,8 @@
         "eslint-config-airbnb-base": "~13.1.0",
         "eslint-plugin-import": "~2.16.0",
         "istanbul": "1.1.0-alpha.1",
-        "mocha": "~5.0.4"
+        "mocha": "~5.0.4",
+        "eslint-utils": ">=1.4.1"
     },
     "author": "Pawan Pinjarkar",
     "readmeFilename": "README.md"
